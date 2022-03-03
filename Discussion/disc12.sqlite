@@ -1,0 +1,6 @@
+q3
+select name from records where supervisor = "Oliver Warbucks";
+q4
+select * from records where name = supervisor;
+q5
+select name from records where salary > 50000 order by name asc;
